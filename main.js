@@ -1,3 +1,1 @@
-function say_hello(){
-    console.log("Hey");
-}
+console.log("I AM LEARNING ");
